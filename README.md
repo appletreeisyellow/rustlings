@@ -1,3 +1,7 @@
+This repo is Rustlings v5.6.1 https://github.com/rust-lang/rustlings
+
+---
+
 <div class="oranda-hide">
 
 # rustlings 🦀❤️
